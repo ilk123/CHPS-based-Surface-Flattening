@@ -1,0 +1,1 @@
+python ./bin/predict.py refine=False model.path=D:/project/paper_flatten/code/lama/lama-main/big-lama indir=D:/project/paper_flatten/code/lama/lama-main/data outdir=D:/project/paper_flatten/code/lama/lama-main/outputs
