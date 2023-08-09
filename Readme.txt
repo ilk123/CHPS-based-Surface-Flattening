@@ -1,4 +1,4 @@
-导入paper.yaml创建所需python环境
+导入surface.yaml创建所需python环境
 需单独install的第三方库
     - plyfile==0.9
     - sklearn==0.0.post5
