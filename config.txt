@@ -1,9 +1,0 @@
-*path
-input pcd,D:\project\paper_flatten\code\final_code\ply\DenseCloud.ply
-working directory,D:\project\paper_flatten\code\final_code\temp
-output path,D:\project\paper_flatten\code\final_code\result
-*params
-mx,80
-nx,160
-densify,0
-lama path,D:\project\paper_flatten\final_code\code\bin\lama
