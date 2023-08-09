@@ -1,0 +1,1 @@
+D:/project/paper_flatten/data/yaguan\data_Gray\a_mess\case_001\case_001.ply can not be processed because local variable 'A' referenced before assignment

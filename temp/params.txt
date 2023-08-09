@@ -1,0 +1,9 @@
+node number:0
+element number:0
+A:[-1.4948025e-01  2.2069153e-01 -2.7334318e-07]
+mean:[-0.6357624  -0.04030631  1.7339318 ]
+theta:-0.3332443011116726
+size:[ 80 115]
+cellsize:1.3611111111111112
+scalefactor:0.010292039139060022
+reduce coefficient:[0.9 0.8]

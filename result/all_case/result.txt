@@ -1,0 +1,4 @@
+1: D:/project/paper_flatten/data/yaguan\data_Gray\a_mess\case_002\case_002.ply
+gd: 1248.6796, ld: 47.3184, ssim: 0.4261, ed: 2026.0000, cer: 2.9534
+2: D:/project/paper_flatten/data/yaguan\data_Gray\a_mess\case_003\case_003.ply
+gd: 567.0849, ld: 56.1326, ssim: 0.2220, ed: 2011.0000, cer: 1.0000
